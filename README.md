@@ -1,6 +1,6 @@
 # exampledeploy
 
-ທົກລອງໃຊ້ 
+ທົດລອງໃຊ້ 
 
 ## Demo App
 
